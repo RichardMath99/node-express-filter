@@ -4,7 +4,7 @@
 
 install dependencies
 
-### `yarn install`
+### `npm install`
 
 install express:
 
