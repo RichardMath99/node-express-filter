@@ -1,4 +1,4 @@
-# node-express-sequelize-mysql
+# node-express-filter
 
 ## Available Scripts
 
