@@ -1,0 +1,22 @@
+{
+  "name": "express-filters",
+  "version": "1.0.0",
+  "description": "express filters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardMath99/node-express-filters.git"
+  },
+  "author": "Richard Matheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardMath99/node-express-filters/issues"
+  },
+  "homepage": "https://github.com/RichardMath99/node-express-filters#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
